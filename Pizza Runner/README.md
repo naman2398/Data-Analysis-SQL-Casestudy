@@ -28,7 +28,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 ### A. Pizza Metrics
 
-View my solution [here](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md).
+View my solution [here]([https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/A.%20PizzaMetric.sql).
 
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
