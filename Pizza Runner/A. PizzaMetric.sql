@@ -80,7 +80,7 @@ FROM pizza_runner.customer_orders_temp
 GROUP BY 1
 ORDER BY 1;
 
---10. 
+--10. What was the volume of orders for each day of the week?
 SELECT TO_CHAR(order_time,'DAY'),
        COUNT(*) as pizza_ordered_count
 FROM pizza_runner.customer_orders_temp
