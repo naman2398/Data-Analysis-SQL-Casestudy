@@ -7,13 +7,11 @@
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
 - Solution
-  - [Data Cleaning and Transformation](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Data%20Cleaning%20and%20Transformation.md)
-  - [A. Pizza Metrics](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
-  - [B. Runner and Customer Experience](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md)
-  - [Complete SQL Syntax](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner/SQL%20Syntax)
-- [Solution on Medium](https://medium.com/analytics-vidhya/8-week-sql-challenge-case-study-2-pizza-runner-ba32f0a6f9fb?source=friends_link&sk=5463dad7c9b0b1ba83d570f09e1fce90)
-
-***
+  - [Data Cleaning and Transformation](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/Data%20Cleaning%20and%20Transformation.sql)
+  - [A. Pizza Metrics](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.sql)
+  - [B. Runner and Customer Experience](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.sql)
+  
+  ***
 
 ## Business Task
 Danny is expanding his new Pizza Empire and at the same time, he wants to Uberize it, so Pizza Runner was launched!
