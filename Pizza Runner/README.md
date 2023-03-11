@@ -10,7 +10,7 @@
   - [Data Cleaning and Transformation](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/Data%20Cleaning%20and%20Transformation.sql)
   - [A. Pizza Metrics](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/A.%20PizzaMetric.sql)
   - [B. Runner and Customer Experience](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.sql)
-  
+  - [C. Ingredient Optimisation](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/C.%20Ingredient%20Optimisation.sql)
   ***
 
 ## Business Task
@@ -53,6 +53,8 @@ View my solution [here](https://github.com/naman2398/SQL-Casestudy/blob/main/Piz
 
 ### C. Ingredient Optimisation
 
+View my solution [here](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/C.%20Ingredient%20Optimisation.sql).
+
 1. What are the standard ingredients for each pizza?
 2. What was the most commonly added extra?
 3. What was the most common exclusion?
@@ -61,9 +63,8 @@ View my solution [here](https://github.com/naman2398/SQL-Casestudy/blob/main/Piz
 - Meat Lovers - Exclude Beef
 - Meat Lovers - Extra Bacon
 - Meat Lovers - Exclude Cheese, Bacon - Extra Mushroom, Peppers
-5. Generate an alphabetically ordered comma separated ingredient list for each pizza order from the customer_orders table and add a 2x in front of any relevant ingredients
-6. For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
-7. What is the total quantity of each ingredient used in all delivered pizzas sorted by most frequent first?
+5. Generate an alphabetically ordered comma separated ingredient list for each pizza order from the customer_orders table and add a 2x in front of any relevant ingredients. For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
+6. What is the total quantity of each ingredient used in all delivered pizzas sorted by most frequent first?
 
 ### D. Pricing and Ratings
 
