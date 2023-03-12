@@ -11,7 +11,7 @@ order by 2 DESC;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/165887834-471f46c0-2520-4b83-88d9-d91310ceb87c.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DD1.PNG)
 
 ***
 
@@ -25,11 +25,7 @@ ORDER BY 2 DESC;
 ``` 
 	
 #### Result set:
-| customer_id | visit_count |
-| ----------- | ----------- |
-| A           | 4           |
-| B           | 6           |
-| C           | 2           |
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DD2.PNG)
 
 ***
 
@@ -48,7 +44,7 @@ where order_date = first_order_date;
 ``` 
 		
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/165887304-a1e2e494-a611-43b0-af50-3674d2133f09.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DD3.PNG)
 
 ***
 
@@ -68,7 +64,7 @@ WHERE co.order_count = (select max(order_count) from count_orders);
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/165887623-4abffa33-c5d1-4e20-b8a8-8cd0d8c16e7a.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DD4.PNG)
 
 ***
 
@@ -93,7 +89,7 @@ WHERE mc.order_count = mc.max_count;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/165887834-471f46c0-2520-4b83-88d9-d91310ceb87c.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DD5.PNG)
 
 ***
 
@@ -115,7 +111,7 @@ WHERE om.order_date = om.first_order_date;
 ``` 
 	
 #### Result set:
-
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DD6.PNG)
 
 ***
 
@@ -137,10 +133,7 @@ WHERE om.order_date = om.last_order_date;
 ``` 
 	
 #### Result set:
-| customer_id | product_name | order_date               | join_date                |
-| ----------- | ------------ | ------------------------ | ------------------------ |
-| A           | curry,sushi  | 2021-01-01T00:00:00.000Z | 2021-01-07T00:00:00.000Z |
-| B           | sushi        | 2021-01-04T00:00:00.000Z | 2021-01-09T00:00:00.000Z |
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DD7.PNG)
 
 ***
 
@@ -156,10 +149,7 @@ GROUP BY s.customer_id;
 ``` 
 	
 #### Result set:
-| customer_id | total_items | amount_spent |
-| ----------- | ----------- | ------------ |
-| A           | 2           | $25          |
-| B           | 3           | $40          |
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DD8.PNG)
 
 ***
 
@@ -179,12 +169,7 @@ ORDER BY 2 DESC;
 ``` 
 	
 #### Result set:
-| customer_id | customer_points |
-| ----------- | --------------- |
-| A           | 860             |
-| B           | 940             |
-| C           | 360             |
-
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DD9.PNG)
 
 ***
 
@@ -204,10 +189,7 @@ ORDER BY 2 DESC;
 ``` 
 
 #### Result set:
-| customer_id | customer_points |
-| ----------- | --------------- |
-| A           | 1020            |
-| B           | 320             |
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DD10.PNG)
 
 ***
 
@@ -228,7 +210,7 @@ ORDER BY 1,5;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/167406964-25276db9-fe1c-4608-8b77-b0970b156888.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DDB1.PNG)
 
 ***
 
@@ -256,7 +238,8 @@ ORDER BY 1;
 ```
 
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/167407504-41d02dd0-0bd1-4a3c-8f41-00ae07daefad.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/DDB2.PNG)
 
+***
 
 
