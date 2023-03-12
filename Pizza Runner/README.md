@@ -12,7 +12,9 @@
   - [A. Pizza Metrics](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/A.%20PizzaMetric.sql)
   - [B. Runner and Customer Experience](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.sql)
   - [C. Ingredient Optimisation](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/C.%20Ingredient%20Optimisation.sql)
-  ***
+  - [D. Pricing and Ratings](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/D.%20Pricing%20and%20Ratings.md)
+ 
+ ***
 
 ## Business Task
 Danny is expanding his new Pizza Empire and at the same time, he wants to Uberize it, so Pizza Runner was launched!
@@ -95,6 +97,8 @@ Click here to view the questions!
 </details>
 
 ### D. Pricing and Ratings
+
+View my solution [here](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/D.%20Pricing%20and%20Ratings.md).
 
 <details>
 <summary>
