@@ -6,7 +6,7 @@
 - [Dataset](#dataset)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
-- [Solution on Github](https://github.com/naman2398/SQL-Casestudy/blob/main/Danny's%20Diner/dannysDiner.sql)
+- [Solution](https://github.com/naman2398/SQL-Casestudy/blob/main/Danny's%20Diner/Danny's%20Diner.md)
 
 
 ***
@@ -27,6 +27,8 @@ Three key datasets for this case study
 ![image](https://user-images.githubusercontent.com/81607668/127271130-dca9aedd-4ca9-4ed8-b6ec-1e1920dca4a8.png)
 
 ## Case Study Questions
+
+View my solution [here](https://github.com/naman2398/SQL-Casestudy/blob/main/Danny's%20Diner/Danny's%20Diner.md).
 
 <details>
 <summary>
