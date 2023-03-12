@@ -116,11 +116,31 @@ ORDER BY order_id
 ###  5. If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometre traveled - how much money does Pizza Runner have left over after these deliveries?
 
 ```sql
+WITH pizza_revenue AS (
+    SELECT co.order_id,
+           SUM(CASE
+               WHEN pn.pizza_name = 'Meatlovers' THEN 12
+               ELSE 10
+               END) AS pizza_cost
+    FROM pizza_runner.customer_orders_temp co   
+    JOIN pizza_runner.pizza_names pn ON pn.pizza_id = co.pizza_id
+    GROUP BY co.order_id
+    ),
 
+delivery_cost AS(
+    SELECT order_id,
+           round(0.3 * distance::numeric,2) AS delivery_expenditure
+    FROM pizza_runner.runner_orders_temp
+    )
+    
+SELECT CONCAT('$ ',SUM(pizza_cost - delivery_expenditure)) AS pizza_runner_net_revenue
+FROM pizza_revenue pr JOIN delivery_cost dc
+ON pr.order_id = dc.order_id
+WHERE dc.delivery_expenditure is not null
 ``` 
 	
 #### Result set:
-![image]()
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/D5.PNG)
 
 ***
 
