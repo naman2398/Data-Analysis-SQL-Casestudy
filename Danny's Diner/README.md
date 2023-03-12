@@ -3,6 +3,7 @@
 
 ## 📚 Table of Contents
 - [Business Task](#business-task)
+- [Dataset](#dataset)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
 - [Solution on Github](https://github.com/naman2398/SQL-Casestudy/blob/main/Danny's%20Diner/dannysDiner.sql)
@@ -11,7 +12,15 @@
 ***
 
 ## Business Task
+Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
+
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. 
+
+## Dataset
+Three key datasets for this case study
+- sales: The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+- menu: The menu table maps the product_id to the actual product_name and price of each menu item.
+- members: The members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
 ## Entity Relationship Diagram
 
