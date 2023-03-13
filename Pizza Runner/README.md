@@ -9,7 +9,7 @@
 - [Case Study Questions](#case-study-questions)
 - Solution
   - [Data Cleaning and Transformation](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/Data%20Cleaning%20and%20Transformation.sql)
-  - [A. Pizza Metrics](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/A.%20PizzaMetric.sql)
+  - [A. Pizza Metrics](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/A.%20Pizza%20Metric.md)
   - [B. Runner and Customer Experience](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.sql)
   - [C. Ingredient Optimisation](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/C.%20Ingredient%20Optimisation.sql)
   - [D. Pricing and Ratings](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/D.%20Pricing%20and%20Ratings.md)
@@ -38,7 +38,7 @@ Key datasets for this case study
 
 ### A. Pizza Metrics
 
-View my solution [here](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/A.%20PizzaMetric.sql).
+View my solution [here](https://github.com/naman2398/SQL-Casestudy/blob/main/Pizza%20Runner/A.%20Pizza%20Metric.md).
 
 <details>
 <summary>
