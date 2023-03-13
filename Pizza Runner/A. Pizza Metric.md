@@ -1,4 +1,4 @@
-## :pizza: Case Study #2: Pizza runner - Pizza Metrics
+## :pizza: Case Study: Pizza runner - Pizza Metrics
 
 ####  1. How many pizzas were ordered?
 
