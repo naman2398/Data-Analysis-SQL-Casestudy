@@ -8,7 +8,7 @@ FROM pizza_runner.customer_orders;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164606099-9ea969f1-928e-4bbd-90cd-5211aaed7e89.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/B1.PNG)
 
 ***
 
@@ -20,7 +20,7 @@ FROM pizza_runner.customer_orders;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164606186-2b5465ef-69df-4fbb-9a2d-cd50afd49c7a.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/B2.PNG)
 
 ***
 
@@ -35,7 +35,7 @@ ORDER BY 2 DESC;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164606290-b70ee6e3-ed23-417a-9e86-e8555d9e55c3.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/B3.PNG)
 
 ***
 
@@ -52,7 +52,7 @@ ORDER BY 2 DESC;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164606389-9128a4e0-90e9-467b-a593-c18c62ca007e.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/B4.PNG)
 
 ***
 
@@ -67,7 +67,7 @@ ORDER BY 1,2;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164606480-326c416f-a909-49e8-8bda-8055ee247fd1.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/B5.PNG)
 
 ***
 
@@ -88,7 +88,7 @@ SELECT  max(pizzas_delivered) AS max_pizza_delivered FROM max_pizza_delivered;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164608353-a577858f-1d1c-46ed-b1f2-05644b756604.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/B6.PNG)
 
 ***
 
@@ -112,7 +112,7 @@ ORDER BY co.customer_id;
 ``` 
 
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164609444-9b7453ed-2477-4ce0-b7f7-39768a0ce808.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/B7.PNG)
 
 ***
 
@@ -130,7 +130,7 @@ WHERE ro.distance != 0
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164609941-c2a6f1f8-38c2-4e1c-ab64-a9dd557077e5.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/B8.PNG)
 
 ***
 
@@ -145,7 +145,7 @@ ORDER BY 1;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164611355-1e9338d0-0523-42f6-8648-079a394387ff.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/B9.PNG)
 
 ***
 
@@ -160,6 +160,6 @@ ORDER BY 1;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164612599-c3903593-98e1-4fec-8076-9aa14d9601f9.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/B10.PNG)
 
 ***
