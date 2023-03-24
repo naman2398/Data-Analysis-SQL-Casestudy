@@ -10,7 +10,7 @@ FROM foodie_fi.subscriptions;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164981170-9edf1b3e-b27b-43b5-90c1-c6ff74463e73.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/3A1.PNG)
 
 ***
 
@@ -31,7 +31,7 @@ ORDER BY month;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164981204-63098eac-ed95-4c63-8f26-3f91a8495abc.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/3A2.PNG)
 
 ***
 
@@ -49,7 +49,7 @@ ORDER BY p.plan_id;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164981223-da4b6e28-636c-4bde-92bc-aab821d8a17f.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/3A3.PNG)
 
 ***
 
@@ -64,7 +64,7 @@ WHERE plan_id = 4;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164981238-e545644e-bf0e-4a07-80e7-74b502f1e5ef.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/3A4.PNG)
 
 ***
 
@@ -84,7 +84,7 @@ SELECT
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164981310-3c79a54d-8333-486b-9826-d4e27126009c.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/3A5.PNG)
 
 ***
 
@@ -107,7 +107,7 @@ GROUP BY p.plan_name;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/164981328-0e9c6cf3-9d6e-4757-9e96-b296fff504a6.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/3A6.PNG)
 
 ***
 
@@ -132,7 +132,7 @@ GROUP BY  p.plan_name;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/165534110-8fb9465a-0910-47c0-9264-0a056ff93bac.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/3A7.PNG)
 
 ***
 
@@ -151,7 +151,7 @@ FROM (
 WHERE x.plan_name = 'pro annual' and x.rnk>1;
 ``` 
 
-![image](https://user-images.githubusercontent.com/77529445/211383914-cf0f4274-e1c6-498d-97e6-84f403d9daf5.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/3A8.PNG)
   
 ***
 
@@ -172,13 +172,11 @@ WHERE plan_name = 'pro annual';
 ``` 
 
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/165539042-2c2f5930-1fca-4e42-95e5-b5b1add1eb0d.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/3A9.PNG)
 
 ***
 
 ###  10. Can you further breakdown this average value into 30 day periods (i.e. 0-30 days, 31-60 days etc)
-- The days between trial start date and the annual plan start date is computed.
-- The days are bucketed in 30 day period by dividing the number of days obtained by 30.
 
 ```sql
 WITH day_joined AS(
@@ -204,7 +202,7 @@ ORDER BY window_30days;
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/165565951-25bd5beb-cfab-4a79-9813-2e5d45cd4d04.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/3A10.PNG)
 
 ***
 
@@ -226,7 +224,7 @@ WHERE nxt_plan = 'basic monthly';
 ``` 
 	
 #### Result set:
-![image](https://user-images.githubusercontent.com/77529445/165546400-04f13c2c-2ac2-4042-a4db-249af8316538.png)
+![image](https://github.com/naman2398/SQL-Casestudy/blob/main/Result/3A11.PNG)
 
 ***
 
