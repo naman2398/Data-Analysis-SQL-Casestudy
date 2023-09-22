@@ -15,3 +15,6 @@ With a background in data science, Danny recognized the importance of data for h
 In 2020, Danny identified a niche in the market and founded Foodie-Fi, a unique streaming service dedicated solely to food-related content, akin to a culinary Netflix. Collaborating with a group of tech-savvy individuals, Foodie-Fi introduced monthly and annual subscription plans, granting subscribers unlimited on-demand access to an exclusive library of global food videos.
 
 With a data-driven approach, Danny instilled the importance of data in shaping investment decisions and implementing new features at Foodie-Fi. This case study delves into how the utilization of subscription-style digital data became instrumental in addressing critical business inquiries and steering the growth of the platform.
+
+----
+#### **Note**: The case studies problem statements have been sources from the following [link.](https://8weeksqlchallenge.com/)  
