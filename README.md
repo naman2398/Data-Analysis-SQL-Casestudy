@@ -17,4 +17,4 @@ In 2020, Danny identified a niche in the market and founded Foodie-Fi, a unique 
 With a data-driven approach, Danny instilled the importance of data in shaping investment decisions and implementing new features at Foodie-Fi. This case study delves into how the utilization of subscription-style digital data became instrumental in addressing critical business inquiries and steering the growth of the platform.
 
 ----
-#### **Note**: The case studies problem statements have been sources from the following [link.](https://8weeksqlchallenge.com/)  
+#### **Note**: The case studies problem statements have been sourced from the following [link.](https://8weeksqlchallenge.com/)  
